@@ -8,10 +8,12 @@ This project analyzes confirmed cases, deaths, recovery rates, and active cases 
 
 Dataset
 --------
+
 Source: Kaggle COVID-19 Dataset
 Records: Global COVID-19 reports across multiple countries and dates
 Features:
 ---------
+
 Country/Region
 Confirmed Cases
 Deaths
