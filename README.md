@@ -6,37 +6,33 @@ Real-world data analysis project using a COVID-19 dataset to study global pandem
 
 This project analyzes confirmed cases, deaths, recovery rates, and active cases using Python data analysis and visualization techniques.
 
-Dataset
---------
+## Dataset
+Source: Kaggle COVID-19 Dataset Records
 
-Source: Kaggle COVID-19 Dataset
-Records: Global COVID-19 reports across multiple countries and dates
-Features:
----------
+### Features
+- Country/Region
+- Confirmed Cases
+- Deaths
+- Recovered Cases
+- Active Cases
+- Date-wise Reports
 
-Country/Region
-Confirmed Cases
-Deaths
-Recovered Cases
-Active Cases
-Date-wise Reports
-Tools & Technologies
---------------------
-Python
-Pandas
-NumPy
-Matplotlib
-Analysis Performed
--------------------
-Data Cleaning
-Handling Missing Values
-Date Conversion & Processing
-Country-wise COVID Analysis
-Death Rate Analysis
-Recovery Rate Analysis
-Active Cases Analysis
-Global Trend Analysis
-Data Visualization using Python
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Analysis Performed
+- Data Cleaning
+- Handling Missing Values
+- Country-wise COVID Analysis
+- Death Rate Analysis
+- Recovery Rate Analysis
+- Global Trend Analysis
+- Data Visualization using Python
+
+
 Key Insights
 -------------
 USA, India, and Brazil were among the highest affected countries.
